@@ -1,4 +1,4 @@
-Depreciated: Replaced by https://github.com/caltechlibrary/eprints2bags
+ Deprecated: Replaced by https://github.com/caltechlibrary/eprints2bags
 
 # eprints2dpn
 
