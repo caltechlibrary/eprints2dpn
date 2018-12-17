@@ -1,3 +1,5 @@
+Depreciated: Replaced by https://github.com/caltechlibrary/eprints2bags
+
 # eprints2dpn
 
 Tools for moving EPrints (CODA) materials to DPN.
